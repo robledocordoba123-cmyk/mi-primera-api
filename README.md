@@ -5,6 +5,20 @@ Proyecto de la asignatura Análisis y Desarrollo de Software — SENA.
 
 ---
 
+## 🌐 URL de la API en producción
+https://mi-primera-api-e0ho.onrender.com
+
+---
+
+## 🔐 Autenticación
+Todos los endpoints requieren el siguiente header:
+
+| Header | Valor |
+|--------|-------|
+| password | sena2025 |
+
+---
+
 ## 📦 Tecnologías usadas
 
 - Node.js
